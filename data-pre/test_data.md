@@ -1,6 +1,7 @@
-Siguiendo la guía de usuario, en el capítulo 4, se desribe los datos necesarios para correr una simulación de prueba. 
+按照使用指南，在第4章中，描述了进行模拟测试所需的数据。
 
-Ese capítulo describe el siguiente script para descargar esos datos.
+这一章描述了用于下载这些数据的下一个脚本。
+
 
 ```
 export ICTP_DATASITE=http://clima-dods.ictp.it/regcm4
