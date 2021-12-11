@@ -5,7 +5,7 @@ docker build -t "regcm:4.7.6" .
 ```
 
 
-Correr contenedor Docker:
+运行Docker容器。
 
 ```
 docker run -it -v ~/DATOS/RegCM:/data --name regcm regcm:4.7.6 bash
@@ -53,7 +53,7 @@ chmod  -R 777 $REGCM_RUN
 ...
 ```
 
-Estando en el directorio $REGCM_RUN Preparar los datos:
+正在$REGCM_RUN目录中 准备数据。
 
 ```
 $REGCM_ROOT/bin/terrain test_001.in
