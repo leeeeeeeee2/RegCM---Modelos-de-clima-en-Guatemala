@@ -1,5 +1,5 @@
 export ICTP_DATASITE=http://clima-dods.ictp.it/regcm4
-export REGCM_GLOBEDAT=~/DATOS/RegCM/
+export REGCM_GLOBEDAT=./DATOS/RegCM/
 
 cd $REGCM_GLOBEDAT
 mkdir SURFACE CLM CLM45 SST EIN15
